@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-js-photo-gallery",
+  "version": "1.0.0",
+  "description": "A lightweight, dependency-free photo gallery with thumbnail support",
+  "main": "gallery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gallery",
+    "photos",
+    "javascript",
+    "vanilla-js",
+    "thumbnails"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "files": [
+    "gallery.js",
+    "gallery.css",
+    "README.md"
+  ]
+}
